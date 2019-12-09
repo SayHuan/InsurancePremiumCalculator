@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             checkBox_smoker.isChecked = false;
             spinner_age.setSelection(0);
             myData.premiumAmount = 0.0
-            //..
+            //....
 
         }
     }
